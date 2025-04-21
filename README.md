@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 4 - Chp 1 thru 5
 
 ## What is cascading
@@ -29,3 +30,7 @@ Padding and borders follow same rules for shorthand and longhand.
 
 ## Border Radius to Create Circle
 Using equal width and height + border-radius: 50% makes a perfect circle.
+=======
+# w4_css
+Ben Student 
+>>>>>>> ca690903ce5c18e01007aaec4a7cbda6ae71538d
